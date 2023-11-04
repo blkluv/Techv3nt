@@ -1,7 +1,7 @@
 # Techv3nt🚀
 
 ## Introduction :fire:
-Techv3nt is a platform to find Technical Events, Meetups, Hackathons & Conferences around you.
+Event is a platform to find Technical Events, Meetups, Hackathons & Conferences around you.
 
 ## TechStack Used 🎯
 <li>React</li>
